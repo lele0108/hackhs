@@ -1,18 +1,22 @@
+@font-face {
+  font-family: liberator;
+  src: url("../fonts/liberator.ttf"); }
+
 body {
-  background-color: #000000; }
+  background-color: #111; }
 
 .header {
   background: url("../img/brick.jpg") no-repeat;
-  background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0) 0%, black 100%), url("../img/brick.jpg");
+  background-image: -webkit-linear-gradient(rgba(17, 17, 17, 0) 0%, #111111 100%), url("../img/brick.jpg");
   background-image: -moz-linear-gradient(rgba(0, 0, 0, 0) 0%, black 100%), url("../img/brick.jpg");
   background-image: -o-linear-gradient(rgba(0, 0, 0, 0) 0%, black 100%), url("../img/brick.jpg");
   background-image: -ms-linear-gradient(rgba(0, 0, 0, 0) 0%, black 100%), url("../img/brick.jpg");
-  background-image: linear-gradient(rgba(0, 0, 0, 0) 40%, black 100%), url("../img/brick.jpg");
+  background-image: linear-gradient(rgba(17, 17, 17, 0) 50%, #111111 100%), url("../img/brick.jpg");
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  padding: 75px 0px 150px 0px; }
+  padding: 75px 0px 50px 0px; }
   .header p {
     font-family: 'Text Me One', sans-serif;
     display: inline-block;
@@ -30,6 +34,26 @@ body {
     text-align: center;
     font-size: 26px;
     margin: 5px 0px 5px 0px; }
+
+.menu {
+  color: white;
+  font-family: liberator;
+  font-size: 22px;
+  position: -webkit-sticky;
+  position: -moz-sticky;
+  position: -ms-sticky;
+  position: -o-sticky;
+  position: sticky;
+  top: 20px;
+  z-index: 100; }
+  .menu a {
+    text-decoration: none;
+    color: white; }
+  .menu a:hover {
+    color: #bdc3c7; }
+
+.test {
+  height: 5000px; }
 
 .red {
   color: #fcbdae;
