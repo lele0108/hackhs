@@ -185,6 +185,28 @@ body {
 	color:white;
 }
 
+.application {
+	margin-top: 50px;
+}
+
+.aboutapp {
+	background: url('../img/sleep.jpg') no-repeat;
+	background-size:100%;
+	border: 1px solid white;
+	padding: 30px;
+	h1 {
+		font-family: liberator;
+		text-shadow: -1px -1px 0px rgba(255, 0, 0, 1), 1px 1px 0px rgba(192, 192, 192, 1);
+		color:white;
+	}
+}
+
+.app {
+	padding: 30px;
+	color:white;
+	border: 1px white solid;
+}
+
 .red {
 	color:#fcbdae;	
 	text-shadow: 

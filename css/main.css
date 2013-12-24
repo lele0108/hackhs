@@ -150,6 +150,24 @@ body {
   padding: 30px;
   color: white; }
 
+.application {
+  margin-top: 50px; }
+
+.aboutapp {
+  background: url("../img/sleep.jpg") no-repeat;
+  background-size: 100%;
+  border: 1px solid white;
+  padding: 30px; }
+  .aboutapp h1 {
+    font-family: liberator;
+    text-shadow: -1px -1px 0px red, 1px 1px 0px silver;
+    color: white; }
+
+.app {
+  padding: 30px;
+  color: white;
+  border: 1px white solid; }
+
 .red {
   color: #fcbdae;
   text-shadow: 0 0 8px #fc0b03, 0 0 8px #fc0b03, 0 0 8px #fc0b03, 0 0 60px #f5073b, 0 0 60px #f5073b, 0 0 60px #f5073b, 0 0 60px #f5073b, 0px 12px 10px #000000;
