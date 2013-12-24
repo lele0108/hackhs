@@ -51,6 +51,10 @@ body {
     color: white; }
   .menu a:hover {
     color: #bdc3c7; }
+  .menu span {
+    border-bottom: 3px solid white; }
+    .menu span:hover {
+      border-color: #bdc3c7; }
 
 .tagline {
   margin-top: 50px;

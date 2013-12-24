@@ -59,6 +59,12 @@ body {
   	a:hover {
   		color:#bdc3c7;
   	}
+  	span {
+  		border-bottom: 3px solid white;
+  		&:hover {
+  			border-color:#bdc3c7
+  		}
+  	}
 }
 
 .tagline {
