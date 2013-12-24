@@ -166,6 +166,7 @@ body {
 
 .prizes {
 	margin-top: 50px;
+	margin-bottom: 50px;
 }
 
 .quote {
@@ -204,10 +205,20 @@ body {
 	color:white;
 }
 
-.prizelist {
+.places {
 	border: 1px solid white;
 	padding: 30px;
 	color:white;
+	h1 {
+		font-family: liberator;
+	}
+	h2 {
+		font-family: liberator;
+	}
+	h3 {
+		font-family: liberator;
+		font-size:15px;
+	}
 }
 
 .application {

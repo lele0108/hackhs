@@ -134,7 +134,8 @@ body {
   margin-bottom: 50px; }
 
 .prizes {
-  margin-top: 50px; }
+  margin-top: 50px;
+  margin-bottom: 50px; }
 
 .quote {
   background: url("../img/gandhi.jpg") no-repeat 10% 10%;
@@ -166,10 +167,17 @@ body {
     text-shadow: -1px -1px 0px red, 1px 1px 0px silver;
     font-size: 18px; }
 
-.prizelist {
+.places {
   border: 1px solid white;
   padding: 30px;
   color: white; }
+  .places h1 {
+    font-family: liberator; }
+  .places h2 {
+    font-family: liberator; }
+  .places h3 {
+    font-family: liberator;
+    font-size: 15px; }
 
 .application {
   margin-top: 50px; }
