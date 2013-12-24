@@ -145,6 +145,21 @@ body {
     text-shadow: -1px -1px 0px red, 1px 1px 0px silver;
     font-size: 18px; }
 
+.quote1 {
+  background: url("../img/sheen.jpg") no-repeat 10% 20%;
+  padding: 40px 30px 40px 30px;
+  background-size: 100%;
+  border: 1px solid white;
+  color: white; }
+  .quote1 h1 {
+    font-family: liberator;
+    text-shadow: -2px -2px 0px red, 2px 2px 0px silver; }
+  .quote1 h3 {
+    margin: 5px 0px 0px 0px;
+    font-family: liberator;
+    text-shadow: -1px -1px 0px red, 1px 1px 0px silver;
+    font-size: 18px; }
+
 .prizelist {
   border: 1px solid white;
   padding: 30px;
@@ -167,6 +182,24 @@ body {
   padding: 30px;
   color: white;
   border: 1px white solid; }
+
+.about {
+  margin-top: 50px;
+  margin-bottom: 50px; }
+
+.desp {
+  padding: 30px;
+  color: white;
+  border: 1px white solid; }
+
+.picture {
+  border: 1px solid white;
+  color: white; }
+  .picture p {
+    padding: 5px 10px 0px 10px; }
+  .picture a {
+    color: white;
+    text-decoration: none; }
 
 .red {
   color: #fcbdae;
