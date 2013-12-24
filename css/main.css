@@ -180,7 +180,27 @@ body {
     font-size: 15px; }
 
 .application {
-  margin-top: 50px; }
+  margin-top: 50px;
+  margin-bottom: 50px; }
+  .application h1 {
+    font-family: liberator;
+    font-size: 24px;
+    color: white; }
+
+.form-control {
+  border-radius: 0px !important;
+  background-color: transparent;
+  color: white; }
+  .form-control:focus {
+    outline: none;
+    border: 1px solid white !important;
+    box-shadow: none !important; }
+
+.awesome {
+  border: 1px solid white;
+  background-color: transparent;
+  color: white;
+  padding: 10px 20px 10px 20px; }
 
 .aboutapp {
   background: url("../img/sleep.jpg") no-repeat;
