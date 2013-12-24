@@ -61,8 +61,64 @@ body {
   	}
 }
 
-.test {
-	height:5000px;
+.tagline {
+	margin-top:50px;
+	color:white;
+	h1 {
+		font-family: liberator;
+		font-size:70px;
+		text-shadow: -2px -2px 0px rgba(255, 0, 0, 1), 2px 2px 0px rgba(192, 192, 192, 1);
+
+	}
+	span {
+		color:#eb0808;
+	}
+	margin-bottom:75px;
+	a {
+		color:white;
+		text-decoration:none;
+	}
+}
+
+.tag {
+	border: 1px solid white;
+	background: url('../img/hackathon.jpg') no-repeat;
+	background-size: 100%;
+	padding: 30px;
+	&:hover {
+		background: url('../img/hackathon-color.jpg') no-repeat;
+		background-size: 100%;
+	}
+}
+
+.info {
+	border: 1px solid white;
+	padding: 50px 0px 50px 0px;
+	min-height:150px;
+	background: url('../img/code.jpg') no-repeat;
+	background-size: 100%;
+	&:hover {
+		background: url('../img/code-color.jpg') no-repeat;
+		background-size: 100%;
+	}
+	h1 {
+		font-size:40px;
+	}
+}
+
+.apply {
+	border: 1px solid white;
+	padding: 50px 0px 50px 0px;
+	min-height:150px;
+	background: url('../img/apply.jpg') no-repeat;
+	background-size: 100%;
+	&:hover {
+		background: url('../img/apply-color.jpg') no-repeat;
+		background-size: 100%;
+	}
+	h1 {
+		font-size:40px;
+	}
 }
 
 .red {
