@@ -157,6 +157,34 @@ body {
 	margin-bottom:50px;
 }
 
+.prizes {
+	margin-top: 50px;
+}
+
+.quote {
+	background: url('../img/gandhi.jpg') no-repeat 10% 10%;
+	padding: 40px 30px 40px 30px;
+	background-size:120%;
+	border: 1px solid white;
+	h1 {
+		font-family: liberator;
+		text-shadow: -2px -2px 0px rgba(255, 0, 0, 1), 2px 2px 0px rgba(192, 192, 192, 1);
+	}
+	h3 {
+		margin: 5px 0px 0px 0px;
+		font-family: liberator;
+		text-shadow: -1px -1px 0px rgba(255, 0, 0, 1), 1px 1px 0px rgba(192, 192, 192, 1);
+		font-size:18px;
+	}
+	color:white;
+}
+
+.prizelist {
+	border: 1px solid white;
+	padding: 30px;
+	color:white;
+}
+
 .red {
 	color:#fcbdae;	
 	text-shadow: 
