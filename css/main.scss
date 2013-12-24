@@ -50,7 +50,9 @@ body {
   	position: -ms-sticky;
   	position: -o-sticky;
   	position: sticky;
-  	top: 20px;
+  	background-color:#111;
+  	top: 0px;
+  	padding-top:10px;
   	z-index: 100;
   	a {
   		text-decoration:none;
@@ -125,6 +127,34 @@ body {
 	h1 {
 		font-size:40px;
 	}
+}
+
+.faq {
+	color:white;
+	margin-top: 50px;
+	h1 {
+		color:white;
+		font-family: liberator;
+		font-size:35px;
+		text-shadow: -2px -2px 0px rgba(255, 0, 0, 1), 2px 2px 0px rgba(192, 192, 192, 1);
+	}
+	margin-bottom:50px;
+	a {
+		color:red;
+		text-decoration:none;
+		&:hover {
+			opacity:0.8;
+		}
+	}
+}
+
+.information {
+	border: 1px solid white;
+	padding: 30px;
+}
+
+.question {
+	margin-bottom:50px;
 }
 
 .red {

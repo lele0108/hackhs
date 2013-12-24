@@ -44,7 +44,9 @@ body {
   position: -ms-sticky;
   position: -o-sticky;
   position: sticky;
-  top: 20px;
+  background-color: #111;
+  top: 0px;
+  padding-top: 10px;
   z-index: 100; }
   .menu a {
     text-decoration: none;
@@ -102,6 +104,28 @@ body {
     background-size: 100%; }
   .apply h1 {
     font-size: 40px; }
+
+.faq {
+  color: white;
+  margin-top: 50px;
+  margin-bottom: 50px; }
+  .faq h1 {
+    color: white;
+    font-family: liberator;
+    font-size: 35px;
+    text-shadow: -2px -2px 0px red, 2px 2px 0px silver; }
+  .faq a {
+    color: red;
+    text-decoration: none; }
+    .faq a:hover {
+      opacity: 0.8; }
+
+.information {
+  border: 1px solid white;
+  padding: 30px; }
+
+.question {
+  margin-bottom: 50px; }
 
 .red {
   color: #fcbdae;
