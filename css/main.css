@@ -105,6 +105,12 @@ body {
   .apply h1 {
     font-size: 40px; }
 
+.sponsors {
+  border: 1px solid white;
+  padding: 30px; }
+  .sponsors h1 {
+    font-size: 35px; }
+
 .faq {
   color: white;
   margin-top: 50px;
