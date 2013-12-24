@@ -89,7 +89,7 @@ body {
 }
 .tag {
 	border: 1px solid white;
-	background: url('../img/hackathon.jpg') no-repeat;
+	background: url('../img/hackathon-color.jpg') no-repeat;
 	background-size: 100%;
 	padding: 30px;
 	&:hover {
@@ -285,6 +285,31 @@ body {
 	a {
 		color:white;
 		text-decoration:none;
+	}
+}
+
+.plan {
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.rundown {
+	border: 1px solid white;
+	color:white;
+	padding: 30px;
+	background: url('../img/hackathon.jpg') no-repeat;
+	background-size: 100%;
+	h3 {
+		font-family: liberator;
+		text-shadow: -1px -1px 0px rgba(255, 0, 0, 1), 1px 1px 0px rgba(192, 192, 192, 1);
+		line-height:40px;
+	}
+	span {
+		border-bottom: 3px solid white;
+	}
+	hr {
+		border-bottom: 3px solid white !important;
+		box-shadow: -1px -1px 0px rgba(255, 0, 0, 1), 1px 1px 0px rgba(192, 192, 192, 1);
 	}
 }
 
