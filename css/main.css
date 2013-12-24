@@ -1,8 +1,18 @@
 body {
-  background-color: black; }
+  background-color: #000000; }
 
 .header {
-  margin-top: 75px; }
+  background: url("../img/brick.jpg") no-repeat;
+  background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0) 0%, black 100%), url("../img/brick.jpg");
+  background-image: -moz-linear-gradient(rgba(0, 0, 0, 0) 0%, black 100%), url("../img/brick.jpg");
+  background-image: -o-linear-gradient(rgba(0, 0, 0, 0) 0%, black 100%), url("../img/brick.jpg");
+  background-image: -ms-linear-gradient(rgba(0, 0, 0, 0) 0%, black 100%), url("../img/brick.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0) 40%, black 100%), url("../img/brick.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 75px 0px 150px 0px; }
   .header p {
     font-family: 'Text Me One', sans-serif;
     display: inline-block;
