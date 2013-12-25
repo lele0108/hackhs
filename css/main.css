@@ -73,7 +73,7 @@ body {
     text-decoration: none; }
 
 .tag {
-  border: 1px solid white;
+  border: 1px solid #6e6e6e;
   background: url("../img/hackathon-color.jpg") no-repeat;
   background-size: 100%;
   padding: 30px; }
@@ -82,7 +82,7 @@ body {
     background-size: 100%; }
 
 .info {
-  border: 1px solid white;
+  border: 1px solid #6e6e6e;
   padding: 50px 0px 50px 0px;
   min-height: 150px;
   background: url("../img/code.jpg") no-repeat;
@@ -94,7 +94,7 @@ body {
     font-size: 40px; }
 
 .apply {
-  border: 1px solid white;
+  border: 1px solid #6e6e6e;
   padding: 50px 0px 50px 0px;
   min-height: 150px;
   background: url("../img/apply.jpg") no-repeat;
@@ -106,7 +106,7 @@ body {
     font-size: 40px; }
 
 .sponsors {
-  border: 1px solid white;
+  border: 1px solid #6e6e6e;
   padding: 30px; }
   .sponsors h1 {
     font-size: 35px; }
@@ -127,7 +127,7 @@ body {
       opacity: 0.8; }
 
 .information {
-  border: 1px solid white;
+  border: 1px solid #6e6e6e;
   padding: 30px; }
 
 .question {
@@ -141,7 +141,7 @@ body {
   background: url("../img/gandhi.jpg") no-repeat 10% 10%;
   padding: 40px 30px 40px 30px;
   background-size: 120%;
-  border: 1px solid white;
+  border: 1px solid #6e6e6e;
   color: white; }
   .quote h1 {
     font-family: liberator;
@@ -156,7 +156,7 @@ body {
   background: url("../img/sheen.jpg") no-repeat 10% 20%;
   padding: 40px 30px 40px 30px;
   background-size: 100%;
-  border: 1px solid white;
+  border: 1px solid #6e6e6e;
   color: white; }
   .quote1 h1 {
     font-family: liberator;
@@ -168,7 +168,7 @@ body {
     font-size: 18px; }
 
 .places {
-  border: 1px solid white;
+  border: 1px solid #6e6e6e;
   padding: 30px;
   color: white; }
   .places h1 {
@@ -193,11 +193,11 @@ body {
   color: white; }
   .form-control:focus {
     outline: none;
-    border: 1px solid white !important;
+    border: 1px solid #6e6e6e !important;
     box-shadow: none !important; }
 
 .awesome {
-  border: 1px solid white;
+  border: 1px solid #6e6e6e;
   background-color: transparent;
   color: white;
   padding: 10px 20px 10px 20px; }
@@ -205,7 +205,7 @@ body {
 .aboutapp {
   background: url("../img/sleep.jpg") no-repeat;
   background-size: 100%;
-  border: 1px solid white;
+  border: 1px solid #6e6e6e;
   padding: 30px; }
   .aboutapp h1 {
     font-family: liberator;
@@ -215,7 +215,7 @@ body {
 .app {
   padding: 30px;
   color: white;
-  border: 1px white solid; }
+  border: 1px #6e6e6e solid; }
 
 .about {
   margin-top: 50px;
@@ -224,10 +224,10 @@ body {
 .desp {
   padding: 30px;
   color: white;
-  border: 1px white solid; }
+  border: 1px #6e6e6e solid; }
 
 .picture {
-  border: 1px solid white;
+  border: 1px solid #6e6e6e;
   color: white; }
   .picture p {
     padding: 5px 10px 0px 10px; }
@@ -240,7 +240,7 @@ body {
   margin-bottom: 50px; }
 
 .rundown {
-  border: 1px solid white;
+  border: 1px solid #6e6e6e;
   color: white;
   padding: 30px;
   background: url("../img/hackathon.jpg") no-repeat;

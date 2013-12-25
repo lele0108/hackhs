@@ -88,7 +88,7 @@ body {
 	}
 }
 .tag {
-	border: 1px solid white;
+	border: 1px solid #6e6e6e;
 	background: url('../img/hackathon-color.jpg') no-repeat;
 	background-size: 100%;
 	padding: 30px;
@@ -99,7 +99,7 @@ body {
 }
 
 .info {
-	border: 1px solid white;
+	border: 1px solid #6e6e6e;
 	padding: 50px 0px 50px 0px;
 	min-height:150px;
 	background: url('../img/code.jpg') no-repeat;
@@ -114,7 +114,7 @@ body {
 }
 
 .apply {
-	border: 1px solid white;
+	border: 1px solid #6e6e6e;
 	padding: 50px 0px 50px 0px;
 	min-height:150px;
 	background: url('../img/apply.jpg') no-repeat;
@@ -129,7 +129,7 @@ body {
 }
 
 .sponsors {
-	border: 1px solid white;
+	border: 1px solid #6e6e6e;
 	padding: 30px;
 	h1 {
 		font-size:35px;
@@ -156,7 +156,7 @@ body {
 }
 
 .information {
-	border: 1px solid white;
+	border: 1px solid #6e6e6e;
 	padding: 30px;
 }
 
@@ -173,7 +173,7 @@ body {
 	background: url('../img/gandhi.jpg') no-repeat 10% 10%;
 	padding: 40px 30px 40px 30px;
 	background-size:120%;
-	border: 1px solid white;
+	border: 1px solid #6e6e6e;
 	h1 {
 		font-family: liberator;
 		text-shadow: -2px -2px 0px rgba(255, 0, 0, 1), 2px 2px 0px rgba(192, 192, 192, 1);
@@ -191,7 +191,7 @@ body {
 	background: url('../img/sheen.jpg') no-repeat 10% 20%;
 	padding: 40px 30px 40px 30px;
 	background-size:100%;
-	border: 1px solid white;
+	border: 1px solid #6e6e6e;
 	h1 {
 		font-family: liberator;
 		text-shadow: -2px -2px 0px rgba(255, 0, 0, 1), 2px 2px 0px rgba(192, 192, 192, 1);
@@ -206,7 +206,7 @@ body {
 }
 
 .places {
-	border: 1px solid white;
+	border: 1px solid #6e6e6e;
 	padding: 30px;
 	color:white;
 	h1 {
@@ -236,12 +236,12 @@ body {
 	background-color:transparent;
 	color:white;
 	&:focus {outline: none;
-  	border:1px solid white !important;
+  	border:1px solid #6e6e6e !important;
   	box-shadow:none !important;}
 }
 
 .awesome {
-	border: 1px solid white;
+	border: 1px solid #6e6e6e;
 	background-color:transparent;
 	color:white;
 	padding: 10px 20px 10px 20px;
@@ -250,7 +250,7 @@ body {
 .aboutapp {
 	background: url('../img/sleep.jpg') no-repeat;
 	background-size:100%;
-	border: 1px solid white;
+	border: 1px solid #6e6e6e;
 	padding: 30px;
 	h1 {
 		font-family: liberator;
@@ -262,7 +262,7 @@ body {
 .app {
 	padding: 30px;
 	color:white;
-	border: 1px white solid;
+	border: 1px #6e6e6e solid;
 }
 
 .about {
@@ -273,11 +273,11 @@ body {
 .desp {
 	padding: 30px;
 	color:white;
-	border: 1px white solid;
+	border: 1px #6e6e6e solid;
 }
 
 .picture {
-	border: 1px solid white;
+	border: 1px solid #6e6e6e;
 	color:white;
 	p {
 		padding: 5px 10px 0px 10px;
@@ -294,7 +294,7 @@ body {
 }
 
 .rundown {
-	border: 1px solid white;
+	border: 1px solid #6e6e6e;
 	color:white;
 	padding: 30px;
 	background: url('../img/hackathon.jpg') no-repeat;
