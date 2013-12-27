@@ -286,13 +286,9 @@ body {
   background-size: 100%; }
   .rundown h3 {
     font-family: liberator;
-    text-shadow: -1px -1px 0px red, 1px 1px 0px silver;
     line-height: 40px; }
   .rundown span {
     border-bottom: 3px solid white; }
-  .rundown hr {
-    border-bottom: 3px solid white !important;
-    box-shadow: -1px -1px 0px red, 1px 1px 0px silver; }
 
 .schedule {
   margin-bottom: 30px;
