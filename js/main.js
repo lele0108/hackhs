@@ -3,3 +3,4 @@ $('#ss-submit').click(function() {
     $('#ss-form').hide();
     $('#message').show();
 });
+$( '.menu' ).fixedsticky();
