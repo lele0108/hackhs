@@ -74,22 +74,18 @@ body {
 
 .tag {
   border: 1px solid #6e6e6e;
-  background: url("../img/hackathon-color.jpg") no-repeat;
+  background: url("../img/plan.jpg") no-repeat 40%;
   background-size: 100%;
   padding: 30px; }
-  .tag:hover {
-    background: url("../img/hackathon-color.jpg") no-repeat;
-    background-size: 100%; }
 
 .info {
   border: 1px solid #6e6e6e;
   padding: 50px 0px 50px 0px;
   min-height: 150px;
-  background: url("../img/code.jpg") no-repeat;
+  background: url("../img/code-color.jpg") no-repeat;
   background-size: 100%; }
   .info:hover {
-    background: url("../img/code-color.jpg") no-repeat;
-    background-size: 100%; }
+    opacity: 0.8; }
   .info h1 {
     font-size: 40px; }
 
@@ -97,11 +93,10 @@ body {
   border: 1px solid #6e6e6e;
   padding: 50px 0px 50px 0px;
   min-height: 150px;
-  background: url("../img/apply.jpg") no-repeat;
+  background: url("../img/apply-color.jpg") no-repeat;
   background-size: 100%; }
   .apply:hover {
-    background: url("../img/apply-color.jpg") no-repeat;
-    background-size: 100%; }
+    opacity: 0.8; }
   .apply h1 {
     font-size: 40px; }
 
@@ -220,6 +215,9 @@ body {
 .about {
   margin-top: 50px;
   margin-bottom: 50px; }
+  .about a {
+    color: red;
+    text-decoration: none; }
 
 .desp {
   padding: 30px;
@@ -238,12 +236,49 @@ body {
 .plan {
   margin-top: 50px;
   margin-bottom: 50px; }
+  .plan a {
+    text-decoration: none; }
+
+.facebook {
+  padding: 30px;
+  border: 1px solid #6e6e6e;
+  color: white;
+  background: url("../img/facebook.jpg") no-repeat;
+  background-size: 100%;
+  min-height: 150px; }
+  .facebook h1 {
+    font-family: liberator;
+    text-shadow: -1px -1px 0px red, 1px 1px 0px silver; }
+  .facebook a {
+    color: white;
+    text-decoration: none;
+    border: 0px; }
+  .facebook:hover {
+    opacity: 0.8; }
+
+.travel {
+  padding: 30px;
+  border: 1px solid #6e6e6e;
+  color: white;
+  background: url("../img/virgin.jpg") no-repeat;
+  background-size: 100%;
+  min-height: 150px;
+  max-height: 150px; }
+  .travel h1 {
+    font-family: liberator;
+    text-shadow: -1px -1px 0px red, 1px 1px 0px silver; }
+  .travel a {
+    color: white;
+    text-decoration: none;
+    border: 0px; }
+  .travel:hover {
+    opacity: 0.8; }
 
 .rundown {
   border: 1px solid #6e6e6e;
   color: white;
   padding: 30px;
-  background: url("../img/hackathon.jpg") no-repeat;
+  background: url("../img/hackathon-color.jpg") no-repeat;
   background-size: 100%; }
   .rundown h3 {
     font-family: liberator;
