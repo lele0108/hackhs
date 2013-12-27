@@ -365,6 +365,7 @@ body {
 		font-family: liberator;
 		text-shadow: -1px -1px 0px rgba(255, 0, 0, 1), 1px 1px 0px rgba(192, 192, 192, 1);
 		line-height:40px;
+		font-size: 30px;
 	}
 }
 
@@ -379,6 +380,10 @@ body {
 	}
 }
 
+.start {
+	padding: 30px;
+}
+
 .s1 {
 	@include sections;
 	background: url('../img/s1.jpg') no-repeat 10%;
@@ -387,60 +392,60 @@ body {
 
 .s2 {
 	@include sections;
-	background: url('../img/s1.jpg') no-repeat 3%;
+	background: url('../img/s2.jpg') no-repeat 10%;
 	background-size: 100%;
 }
 
 .s3 {
 	@include sections;
-	background: url('../img/s1.jpg') no-repeat 3%;
+	background: url('../img/s3.jpg') no-repeat 50%;
 	background-size: 100%;
 }
 
 .s4 {
 	@include sections;
-	background: url('../img/s1.jpg') no-repeat 3%;
+	background: url('../img/s4.jpg') no-repeat 0%;
 	background-size: 100%;
 }
 .s5 {
 	@include sections;
-	background: url('../img/s1.jpg') no-repeat 3%;
+	background: url('../img/s5.jpg') no-repeat 100%;
 	background-size: 100%;
 }
 
 .s6 {
 	@include sections;
-	background: url('../img/s1.jpg') no-repeat 3%;
+	background: url('../img/s6.jpg') no-repeat 3%;
 	background-size: 100%;
 }
 
 .s7 {
 	@include sections;
-	background: url('../img/s1.jpg') no-repeat 3%;
+	background: url('../img/s7.jpg') no-repeat 3%;
 	background-size: 100%;
 }
 
 .s8 {
 	@include sections;
-	background: url('../img/s1.jpg') no-repeat 3%;
+	background: url('../img/s8.jpg') no-repeat 3%;
 	background-size: 100%;
 }
 
 .s9 {
 	@include sections;
-	background: url('../img/s1.jpg') no-repeat 3%;
+	background: url('../img/s9.jpg') no-repeat 3%;
 	background-size: 100%;
 }
 
 .s10 {
 	@include sections;
-	background: url('../img/s1.jpg') no-repeat 3%;
+	background: url('../img/s10.jpg') no-repeat 3%;
 	background-size: 100%;
 }
 
 .s11 {
 	@include sections;
-	background: url('../img/s1.jpg') no-repeat 3%;
+	background: url('../img/s11.jpg') no-repeat 50%;
 	background-size: 100%;
 }
 

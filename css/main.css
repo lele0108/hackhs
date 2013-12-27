@@ -296,10 +296,14 @@ body {
   .schedule h1 {
     font-family: liberator;
     text-shadow: -1px -1px 0px red, 1px 1px 0px silver;
-    line-height: 40px; }
+    line-height: 40px;
+    font-size: 30px; }
 
 .inner {
   border: 1px solid #6e6e6e; }
+
+.start {
+  padding: 30px; }
 
 .s1 {
   padding: 30px;
@@ -310,70 +314,70 @@ body {
 
 .s2 {
   padding: 30px;
-  background: url("../img/s1.jpg") no-repeat 3%;
+  background: url("../img/s2.jpg") no-repeat 10%;
   background-size: 100%; }
   .s2:hover {
     opacity: 0.8; }
 
 .s3 {
   padding: 30px;
-  background: url("../img/s1.jpg") no-repeat 3%;
+  background: url("../img/s3.jpg") no-repeat 50%;
   background-size: 100%; }
   .s3:hover {
     opacity: 0.8; }
 
 .s4 {
   padding: 30px;
-  background: url("../img/s1.jpg") no-repeat 3%;
+  background: url("../img/s4.jpg") no-repeat 0%;
   background-size: 100%; }
   .s4:hover {
     opacity: 0.8; }
 
 .s5 {
   padding: 30px;
-  background: url("../img/s1.jpg") no-repeat 3%;
+  background: url("../img/s5.jpg") no-repeat 100%;
   background-size: 100%; }
   .s5:hover {
     opacity: 0.8; }
 
 .s6 {
   padding: 30px;
-  background: url("../img/s1.jpg") no-repeat 3%;
+  background: url("../img/s6.jpg") no-repeat 3%;
   background-size: 100%; }
   .s6:hover {
     opacity: 0.8; }
 
 .s7 {
   padding: 30px;
-  background: url("../img/s1.jpg") no-repeat 3%;
+  background: url("../img/s7.jpg") no-repeat 3%;
   background-size: 100%; }
   .s7:hover {
     opacity: 0.8; }
 
 .s8 {
   padding: 30px;
-  background: url("../img/s1.jpg") no-repeat 3%;
+  background: url("../img/s8.jpg") no-repeat 3%;
   background-size: 100%; }
   .s8:hover {
     opacity: 0.8; }
 
 .s9 {
   padding: 30px;
-  background: url("../img/s1.jpg") no-repeat 3%;
+  background: url("../img/s9.jpg") no-repeat 3%;
   background-size: 100%; }
   .s9:hover {
     opacity: 0.8; }
 
 .s10 {
   padding: 30px;
-  background: url("../img/s1.jpg") no-repeat 3%;
+  background: url("../img/s10.jpg") no-repeat 3%;
   background-size: 100%; }
   .s10:hover {
     opacity: 0.8; }
 
 .s11 {
   padding: 30px;
-  background: url("../img/s1.jpg") no-repeat 3%;
+  background: url("../img/s11.jpg") no-repeat 50%;
   background-size: 100%; }
   .s11:hover {
     opacity: 0.8; }
