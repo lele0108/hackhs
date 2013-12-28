@@ -196,10 +196,12 @@ body {
     box-shadow: none !important; }
 
 .awesome {
-  border: 1px solid #6e6e6e;
+  border: 1px solid white;
   background-color: transparent;
   color: white;
   padding: 10px 20px 10px 20px; }
+  .awesome:hover {
+    border-color: #6e6e6e; }
 
 .aboutapp {
   background: url("../img/sleep.jpg") no-repeat;
